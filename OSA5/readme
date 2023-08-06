@@ -1,0 +1,12 @@
+For q1:
+get inside the q1 directory
+write make in terminal
+then ./phil {value_of_N} ---- (example: ./phil 5)
+see the output
+-----------------------------------------------
+For q2:
+get inside the q2 directory
+write make in terminal
+then ./multi_pc -p {value_of_p} -pc {value_of_pc} -c {value_of_c} -cc {value_of_cc} ---- (example: ./multi_pc -p 4 -pc 2 -c 2 -cc 2)
+see the output
+-----------------------------------------------

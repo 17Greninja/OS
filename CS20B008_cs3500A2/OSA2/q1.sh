@@ -1,0 +1,1 @@
+sed -e 's/[^[:alpha:]]/ /g' Assignment1_data | tr '\n' " " |  tr -s " " | tr " " '\n'| tr 'A-Z' 'a-z' | sort | uniq -c | sort -nr | nl | head -n 3
